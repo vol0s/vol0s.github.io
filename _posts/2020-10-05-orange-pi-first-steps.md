@@ -5,9 +5,8 @@ categories: [Tutorial, OrangePi]
 tags: [armbian, orangepi]  
 ---
 
-[rpi-imager]: /assets/img/sample/rpi-imager.png "Flashing Armbian to SD card"
-[opizero-firstlogin]: /assets/img/sample/opizero-firstlogin.png "First login screen inside Armbian OrangePi Zero 2 H5"
-[armbian-config]: /assets/img/sample/armbian-config.png "Armbian configuration options"
+[opizero-firstlogin]: /assets/img/sample/opizero-firstlogin.jpg "First login screen inside Armbian OrangePi Zero 2 H5"
+[armbian-config]: /assets/img/sample/armbian-config.jpg "Armbian configuration options"
 
 
 # What is OrangePi
@@ -31,8 +30,6 @@ sudo apt install rpi-imager
 ```
 
 The next step will be using the software to flash the image. rpi-imager will handle the extraction for us, so we just need to pick our custom image and the target SD card.
-
-![rpi-imager][rpi-imager]
 
 # Configuring Armbian
 ---
