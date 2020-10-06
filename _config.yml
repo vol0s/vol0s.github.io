@@ -10,7 +10,7 @@
 
 title: vol0s                          # the main title
 
-tagline: Github manual pages.  # it will display as the sub-title
+tagline: My little gh-page tech manuals.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
